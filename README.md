@@ -10,9 +10,7 @@ Fingerprinting Attack on Tor Onion Services**](https://github.com/JohnLone00/Oni
 > @article{xu2024OnionPeeler,
   title={OnionPeeler: A Novel Input-Enriched Website Fingerprinting Attack on Tor Onion Services},
   author={Zhengxin Xu, Jie Cao, Yujie Hou, Yuwei Xu, and Guang Cheng},
-  booktitle={Security and Privacy in Communication Networks: 18th EAI International Conference, SecureComm 2024, October 2024, Proceedings},
-  
-}
+  booktitle={Security and Privacy in Communication Networks: 18th EAI International Conference, SecureComm 2024, October 2024, Proceedings}}
 
 
 
